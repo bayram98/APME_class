@@ -1,5 +1,5 @@
 # APME_class
- 
+              Applied Programming for Management Engineering(APME)
 What is this course about?
   
 1)  Understand “smart” (efcient and efective) ways in which a computer can store
