@@ -8,8 +8,8 @@ What is this course about?
     “scientifc and engineering programming”
       •Python
 3)  …using an “applied” approach            
-
       •Light on theory
       •More about applications
+      
       
       
