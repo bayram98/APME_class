@@ -7,7 +7,8 @@ What is this course about?
 2)  Learning a new programming language, which is particular popular for
     “scientifc and engineering programming”
       •Python
-3)  …using an “applied” approach
+3)  …using an “applied” approach            
+
       •Light on theory
       •More about applications
       
