@@ -10,3 +10,5 @@ What is this course about?
 3)  …using an “applied” approach
       •Light on theory
       •More about applications
+      
+      
